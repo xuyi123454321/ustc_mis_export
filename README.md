@@ -11,6 +11,16 @@ complement a GPA calculator for differnet standards.
 But I may not have the time.
 Therefore, fork and pull request are welcome.
 
+## Usage
+
+**Python Environment Required !!!**
+
+1. Please login into mis.ustc.edu.cn and achieve JSESSIONID from webpage cookies 
+2. Run the scipt in a terminal
+3. Input the JESSIONID you just copied
+4. Wait for the excel to appear in the same directory as you run the scipt
+
+
 ## Requirements ( It's just my working environment )
 python 3.6.2
 urllib 1.22
