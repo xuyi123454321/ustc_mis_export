@@ -1,7 +1,7 @@
 # USTC MIS System Score Export Script
 
 ## From the Author
-This is a simple script written.
+This is a simple script written in Python.
 It's unpacked, poorly organised, merely tested
 but may still work.
 Feel free to change the code.
